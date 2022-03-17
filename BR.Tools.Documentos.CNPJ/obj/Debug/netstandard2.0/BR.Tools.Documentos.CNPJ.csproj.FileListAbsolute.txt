@@ -1,0 +1,10 @@
+C:\Projetos\BR.Tools.Documentos\BR.Tools.Documentos.CNPJ\bin\Debug\netstandard2.0\BR.Tools.Documentos.CNPJ.deps.json
+C:\Projetos\BR.Tools.Documentos\BR.Tools.Documentos.CNPJ\bin\Debug\netstandard2.0\BR.Tools.Documentos.CNPJ.dll
+C:\Projetos\BR.Tools.Documentos\BR.Tools.Documentos.CNPJ\bin\Debug\netstandard2.0\BR.Tools.Documentos.CNPJ.pdb
+C:\Projetos\BR.Tools.Documentos\BR.Tools.Documentos.CNPJ\obj\Debug\netstandard2.0\BR.Tools.Documentos.CNPJ.csproj.AssemblyReference.cache
+C:\Projetos\BR.Tools.Documentos\BR.Tools.Documentos.CNPJ\obj\Debug\netstandard2.0\BR.Tools.Documentos.CNPJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\BR.Tools.Documentos\BR.Tools.Documentos.CNPJ\obj\Debug\netstandard2.0\BR.Tools.Documentos.CNPJ.AssemblyInfoInputs.cache
+C:\Projetos\BR.Tools.Documentos\BR.Tools.Documentos.CNPJ\obj\Debug\netstandard2.0\BR.Tools.Documentos.CNPJ.AssemblyInfo.cs
+C:\Projetos\BR.Tools.Documentos\BR.Tools.Documentos.CNPJ\obj\Debug\netstandard2.0\BR.Tools.Documentos.CNPJ.csproj.CoreCompileInputs.cache
+C:\Projetos\BR.Tools.Documentos\BR.Tools.Documentos.CNPJ\obj\Debug\netstandard2.0\BR.Tools.Documentos.CNPJ.dll
+C:\Projetos\BR.Tools.Documentos\BR.Tools.Documentos.CNPJ\obj\Debug\netstandard2.0\BR.Tools.Documentos.CNPJ.pdb

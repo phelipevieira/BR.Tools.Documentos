@@ -1,0 +1,10 @@
+C:\Projetos\BR.Tools.Documentos\BR.Tools.Documentos.PIS\bin\Debug\netstandard2.0\BR.Tools.Documentos.PIS.deps.json
+C:\Projetos\BR.Tools.Documentos\BR.Tools.Documentos.PIS\bin\Debug\netstandard2.0\BR.Tools.Documentos.PIS.dll
+C:\Projetos\BR.Tools.Documentos\BR.Tools.Documentos.PIS\bin\Debug\netstandard2.0\BR.Tools.Documentos.PIS.pdb
+C:\Projetos\BR.Tools.Documentos\BR.Tools.Documentos.PIS\obj\Debug\netstandard2.0\BR.Tools.Documentos.PIS.csproj.AssemblyReference.cache
+C:\Projetos\BR.Tools.Documentos\BR.Tools.Documentos.PIS\obj\Debug\netstandard2.0\BR.Tools.Documentos.PIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\BR.Tools.Documentos\BR.Tools.Documentos.PIS\obj\Debug\netstandard2.0\BR.Tools.Documentos.PIS.AssemblyInfoInputs.cache
+C:\Projetos\BR.Tools.Documentos\BR.Tools.Documentos.PIS\obj\Debug\netstandard2.0\BR.Tools.Documentos.PIS.AssemblyInfo.cs
+C:\Projetos\BR.Tools.Documentos\BR.Tools.Documentos.PIS\obj\Debug\netstandard2.0\BR.Tools.Documentos.PIS.csproj.CoreCompileInputs.cache
+C:\Projetos\BR.Tools.Documentos\BR.Tools.Documentos.PIS\obj\Debug\netstandard2.0\BR.Tools.Documentos.PIS.dll
+C:\Projetos\BR.Tools.Documentos\BR.Tools.Documentos.PIS\obj\Debug\netstandard2.0\BR.Tools.Documentos.PIS.pdb
