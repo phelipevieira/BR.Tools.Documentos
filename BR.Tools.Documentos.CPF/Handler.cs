@@ -45,10 +45,10 @@ namespace BR.Tools.Documentos.CPF
             return string.Concat(cpf.Substring(0, 3), '.', cpf.Substring(3, 3), '.', cpf.Substring(6, 3), '-', cpf.Substring(9, 2));
         }
 
-        public static int GerarCPFComoInteiro()
+        public static long GerarCPFComoNumero()
         {
             var cpf = GerarCPF();
-            if (int.TryParse(cpf, out int resultado))
+            if (long.TryParse(cpf, out long resultado))
             {
                 return resultado;
             }
@@ -116,9 +116,25 @@ namespace BR.Tools.Documentos.CPF
             return cpf.EndsWith(digito);
         }
 
-        public static bool ValidarCPFInteiro(int cpf)
+        public static bool ValidarCPFInteiro(long cpf)
         {
-            return ValidarCPFString(cpf.ToString());
+            var cpfTexto = cpf.ToString();
+            var length = cpfTexto.Length;
+
+            if (length == 11)
+            {
+                return ValidarCPFString(cpfTexto);
+            }
+            else
+            {
+                var loop = 11 - length;
+                for (int i = 0; i < loop; i++)
+                {
+                    cpfTexto = String.Concat(0, cpfTexto);
+                }
+
+                return ValidarCPFString(cpfTexto);
+            }
         }
     }
 }

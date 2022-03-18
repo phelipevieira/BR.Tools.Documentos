@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32210.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BR.Tools.Documentos.CPF", "BR.Tools.Documentos.CPF\BR.Tools.Documentos.CPF.csproj", "{A33672F4-12BB-46DB-878D-0CB85D5031C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BR.Tools.Documentos.CPF", "BR.Tools.Documentos.CPF\BR.Tools.Documentos.CPF.csproj", "{A33672F4-12BB-46DB-878D-0CB85D5031C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BR.Tools.Documentos.CNPJ", "BR.Tools.Documentos.CNPJ\BR.Tools.Documentos.CNPJ.csproj", "{6619EB6D-6719-44B5-A8EA-C168FBA80490}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BR.Tools.Documentos.CNPJ", "BR.Tools.Documentos.CNPJ\BR.Tools.Documentos.CNPJ.csproj", "{6619EB6D-6719-44B5-A8EA-C168FBA80490}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BR.Tools.Documentos.PIS", "BR.Tools.Documentos.PIS\BR.Tools.Documentos.PIS.csproj", "{862DD5A5-D72A-481B-8FC3-D6DBB3BDFE86}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BR.Tools.Documentos.PIS", "BR.Tools.Documentos.PIS\BR.Tools.Documentos.PIS.csproj", "{862DD5A5-D72A-481B-8FC3-D6DBB3BDFE86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BR.Tools.Documentos.Testes.Unidade", "BR.Tools.Documentos.Testes.Unidade\BR.Tools.Documentos.Testes.Unidade.csproj", "{B621D4C7-88D8-4E88-9021-9ABDE7491B12}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{862DD5A5-D72A-481B-8FC3-D6DBB3BDFE86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{862DD5A5-D72A-481B-8FC3-D6DBB3BDFE86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{862DD5A5-D72A-481B-8FC3-D6DBB3BDFE86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B621D4C7-88D8-4E88-9021-9ABDE7491B12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B621D4C7-88D8-4E88-9021-9ABDE7491B12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B621D4C7-88D8-4E88-9021-9ABDE7491B12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B621D4C7-88D8-4E88-9021-9ABDE7491B12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
